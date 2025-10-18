@@ -1,5 +1,5 @@
 # 💫 About Me
-I'm **Dinesh 🤞**, a **2nd-year B.Tech IT student** at **Sri Sairam Engineering College**.  
+I'm **Dinesh 🤞**, a **3rd-year B.Tech IT student** at **Sri Sairam Engineering College**.  
 I'm passionate about **Cloud Computing**, **AWS services**, and designing scalable, secure, and cost-efficient cloud architectures.  
 Currently, I'm focused on building expertise in **AWS Solutions Architect skills** and earning relevant certifications.
 
