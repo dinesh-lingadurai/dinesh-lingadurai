@@ -4,7 +4,7 @@
 💼 Aspiring **Infrastructure & Cloud Engineer** with hands-on experience in **Python**, Linux environments, and core cloud concepts.  
 💡 Currently strengthening my skills in **Windows Server Administration, Linux System Management, Networking, Azure IAM, Virtualization**, and **Automation using Bash & PowerShell**.
 
-📩 **Email:** dinesh7@hey.com
+📩 **Email:** dineshintern7@gmail.com
 
 
 
