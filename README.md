@@ -1,62 +1,103 @@
-# 💫 About Me  
-I'm **Dinesh 🤞**, a **3rd-year B.Tech IT student** at **Sri Sairam Engineering College**.  
-I'm passionate about **Full Stack Development**, **Cloud Deployment**, and building **scalable, secure, and high-performance web applications**.  
-Currently, I'm expanding my skills in **React.js**, **FastAPI**, and **DevOps practices** like **Docker** and **CI/CD**, aiming to design efficient, production-ready systems.
+# 👋 Hi, I'm **Dinesh**
 
-⚡ _"Good code is like good design — simple, clean, and built to scale."_  
-✉️ **Reach me at:** [dineshlingadurai52@gmail.com](mailto:dineshlingadurai52@gmail.com)
+🎓 **3rd-year B.Tech IT student** at **Sri Sairam Engineering College**  
+💼 Aspiring **Infrastructure & Cloud Engineer** with hands-on experience in **Python**, Linux environments, and core cloud concepts.  
+💡 Currently strengthening my skills in **Windows Server Administration, Linux System Management, Networking, Azure IAM, Virtualization**, and **Automation using Bash & PowerShell**.
+
+📩 **Email:** dineshlingadurai52@gmail.com
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dineshlingadurai)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/dineshlingadurai)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dineshlingadurai52@gmail.com)
 
 ---
 
-## 💻 Tech Stack  
+# 🧰 Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+# 🖥 Systems & Infrastructure Skills
+
+### **Operating Systems**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+**Skills:**  
+- Linux system administration  
+- Windows Server management  
+- Active Directory (learning)  
 
 ---
 
-### 🧠 Core Skills
-- **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+)
-- **Backend:** FastAPI, Django, REST APIs, Microservices
-- **Database:** PostgreSQL, MongoDB, MySQL
-- **Cloud & DevOps:** AWS (EC2, S3), Docker, GitHub Actions, CI/CD
-- **Version Control:** Git, GitHub, Linux Terminal
+### **Networking**
+![Networking](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge)
+
+**Skills:**  
+- DNS, DHCP  
+- TCP/IP  
+- Subnetting & Routing basics  
+- Network troubleshooting  
 
 ---
 
-## 🏅 Certifications  
-- **IBM SkillBuild** – Python & Cloud Application Development  
-- **Microsoft Learn** – DevOps and GitHub Fundamentals  
-- **MongoDB University** – Database Fundamentals  
-- **Cybersecurity Workshop** – Secure Web Development Practices  
+### **Cloud & Identity Management**
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**Skills:**  
+- Azure Virtual Machines  
+- Azure networking  
+- Azure Identity & Access Management (IAM)  
+- Azure AD (learning)  
 
 ---
 
-⭐ **Fun Fact:** I love turning complex problems into elegant code — and coffee fuels both! ☕  
+### **Virtualization**
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+**Skills:**  
+- Creating & managing VMs  
+- Hypervisors (VMware/Hyper-V)  
+- Snapshots & VM provisioning  
 
-## 📈 GitHub Stats
+---
+
+### **Scripting & Automation**
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+**Skills:**  
+- Bash scripting  
+- PowerShell automation  
+- Task automation & log handling  
+
+---
+
+# 🎓 Certifications  
+- **IBM SkillBuild** – Python & Cloud App Development  
+- **Microsoft Learn** – DevOps & GitHub Fundamentals  
+- **MongoDB University** – Database Essentials  
+
+---
+
+# ☕ Fun Fact  
+Most of my best ideas appear during late-night coding sessions with coffee.
+
+---
+
+## 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=dinesh-lingadurai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=dinesh-lingadurai&theme=dark&hide_border=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=dinesh-lingadurai&theme=dark&hide_border=false)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=dinesh-lingadurai&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->oading ReadMe (1).md…]()
